@@ -1,6 +1,6 @@
 baseURL = 'https://arsekil.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Minden ami érdekes'
 theme = 'mainroad'
 [caches]
   [caches.images]
